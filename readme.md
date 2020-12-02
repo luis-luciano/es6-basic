@@ -23,9 +23,9 @@ Se definen comandos para facilitar el uso de herramientas a través de paquetes 
 }
 ```
 **npm run build**
-Comando para generar modulos y elementos a través de Webpack
-**npm run build-babel**
-Generar archivos de Ecmascript 6 a javascript traducional y compatible por la mayoria de los navegadores
+Comando para generar modulos y elementos a través de Webpack  
+**npm run build-babel**  
+Generar archivos de Ecmascript 6 a javascript tradicional y compatible por la mayoria de los navegadores.  
 Se especifica la carpeta de origen, en este caso es **src**.
 Para definir la salida de archivos compilados se utiliza **-d** seguido del nombre de la carpeta destino, en éste caso es  **output**.
 Se utiliza la bandera **--watch** para que la compilación de archivos se realice automaticamente.
