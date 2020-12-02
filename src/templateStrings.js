@@ -1,3 +1,4 @@
+// Mostrando nueva forma de concatenacion
 const name = "Luis";
 const age = 26;
 const country = "México";
