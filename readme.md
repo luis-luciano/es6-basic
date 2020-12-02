@@ -22,7 +22,7 @@ Se definen comandos para facilitar el uso de herramientas a través de paquetes 
     }
 }
 ```
-**npm run build**
+**npm run build**  
 Comando para generar modulos y elementos a través de Webpack  
 **npm run build-babel**  
 Generar archivos de Ecmascript 6 a javascript tradicional y compatible por la mayoria de los navegadores.  
